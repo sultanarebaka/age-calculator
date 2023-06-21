@@ -1,8 +1,18 @@
 body{
 	font-family: Arial, Helvetica, sans-serif;
-	background-color: #F0FF42;
+	background-color: #82CD47;
 	font-size: 15px;
 	line-height: 1.5;
 	padding: 0;
 	margin: 0;
+}
+* {
+	box-sizing: border-box;
+}
+.container{
+	width:515px;
+	height: auto;
+	margin: 130px auto;
+	background-color: #F0FF42;
+	border-radius: 5px;
 }
